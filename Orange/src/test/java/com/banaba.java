@@ -6,5 +6,9 @@ public class banaba {
 		System.out.println("This is Banana Class");
 		
 	}
+	
+	public void def() {
+		System.out.println("This is Grave");
+	}
 
 }
