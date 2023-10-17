@@ -15,4 +15,7 @@ public class banaba {
 		
 		System.out.println("This is BlackBarry");
 	}
+	public void skj() {
+		System.out.println("this is pumpkin");
+	}
 }
